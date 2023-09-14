@@ -1,0 +1,31 @@
+C:\Users\User\source\repos\Projeto BuscaTec\Projeto BuscaTec\bin\Debug\Projeto BuscaTec.exe.config
+C:\Users\User\source\repos\Projeto BuscaTec\Projeto BuscaTec\bin\Debug\Projeto BuscaTec.exe
+C:\Users\User\source\repos\Projeto BuscaTec\Projeto BuscaTec\bin\Debug\Projeto BuscaTec.pdb
+C:\Users\User\source\repos\Projeto BuscaTec\Projeto BuscaTec\obj\Debug\Projeto BuscaTec.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Projeto BuscaTec\Projeto BuscaTec\obj\Debug\Projeto BuscaTec.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Projeto BuscaTec\Projeto BuscaTec\obj\Debug\Projeto_BuscaTec.Form1.resources
+C:\Users\User\source\repos\Projeto BuscaTec\Projeto BuscaTec\obj\Debug\Projeto_BuscaTec.Properties.Resources.resources
+C:\Users\User\source\repos\Projeto BuscaTec\Projeto BuscaTec\obj\Debug\Projeto BuscaTec.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Projeto BuscaTec\Projeto BuscaTec\obj\Debug\Projeto BuscaTec.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Projeto BuscaTec\Projeto BuscaTec\obj\Debug\Projeto BuscaTec.exe
+C:\Users\User\source\repos\Projeto BuscaTec\Projeto BuscaTec\obj\Debug\Projeto BuscaTec.pdb
+C:\Users\User\source\repos\Projeto BuscaTec\Projeto BuscaTec\obj\Debug\Projeto_BuscaTec.Login.resources
+C:\Users\User\source\repos\Projeto BuscaTec\Projeto BuscaTec\obj\Debug\Projeto_BuscaTec.Empresa.resources
+C:\Users\User\source\repos\Projeto BuscaTec\Projeto BuscaTec\obj\Debug\Projeto_BuscaTec.CadastroEmpresa.resources
+C:\Users\luan.caaziani\Source\Repos\BuscaTec\Projeto BuscaTec\Projeto BuscaTec\bin\Debug\Projeto BuscaTec.exe.config
+C:\Users\luan.caaziani\Source\Repos\BuscaTec\Projeto BuscaTec\Projeto BuscaTec\bin\Debug\Projeto BuscaTec.exe
+C:\Users\luan.caaziani\Source\Repos\BuscaTec\Projeto BuscaTec\Projeto BuscaTec\bin\Debug\Projeto BuscaTec.pdb
+C:\Users\luan.caaziani\Source\Repos\BuscaTec\Projeto BuscaTec\Projeto BuscaTec\obj\Debug\Projeto BuscaTec.csproj.AssemblyReference.cache
+C:\Users\luan.caaziani\Source\Repos\BuscaTec\Projeto BuscaTec\Projeto BuscaTec\obj\Debug\Projeto BuscaTec.csproj.SuggestedBindingRedirects.cache
+C:\Users\luan.caaziani\Source\Repos\BuscaTec\Projeto BuscaTec\Projeto BuscaTec\obj\Debug\Projeto_BuscaTec.CadastroEmpresa.resources
+C:\Users\luan.caaziani\Source\Repos\BuscaTec\Projeto BuscaTec\Projeto BuscaTec\obj\Debug\Projeto_BuscaTec.Empresa.resources
+C:\Users\luan.caaziani\Source\Repos\BuscaTec\Projeto BuscaTec\Projeto BuscaTec\obj\Debug\Projeto_BuscaTec.Form1.resources
+C:\Users\luan.caaziani\Source\Repos\BuscaTec\Projeto BuscaTec\Projeto BuscaTec\obj\Debug\Projeto_BuscaTec.Login.resources
+C:\Users\luan.caaziani\Source\Repos\BuscaTec\Projeto BuscaTec\Projeto BuscaTec\obj\Debug\Projeto_BuscaTec.Properties.Resources.resources
+C:\Users\luan.caaziani\Source\Repos\BuscaTec\Projeto BuscaTec\Projeto BuscaTec\obj\Debug\Projeto BuscaTec.csproj.GenerateResource.cache
+C:\Users\luan.caaziani\Source\Repos\BuscaTec\Projeto BuscaTec\Projeto BuscaTec\obj\Debug\Projeto BuscaTec.csproj.CoreCompileInputs.cache
+C:\Users\luan.caaziani\Source\Repos\BuscaTec\Projeto BuscaTec\Projeto BuscaTec\obj\Debug\Projeto BuscaTec.exe
+C:\Users\luan.caaziani\Source\Repos\BuscaTec\Projeto BuscaTec\Projeto BuscaTec\obj\Debug\Projeto BuscaTec.pdb
+C:\Users\luan.caaziani\Source\Repos\BuscaTec\Projeto BuscaTec\Projeto BuscaTec\obj\Debug\Projeto_BuscaTec.TelaAdmin.resources
+C:\Users\User\source\repos\Projeto BuscaTec\Projeto BuscaTec\obj\Debug\Projeto_BuscaTec.TelaAdmin.resources
+C:\Users\User\source\repos\Projeto BuscaTec\Projeto BuscaTec\obj\Debug\Projeto_BuscaTec.TelaUsuario.resources
